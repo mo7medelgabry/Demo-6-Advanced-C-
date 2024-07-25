@@ -23,7 +23,7 @@ namespace Demo_6_Advanced_C_
            { for (int i = 0; i < array.Length; i++)
             {
                 if (value.Equals(array[i]))
-                return i;
+                return i;   
         }
 
            }
